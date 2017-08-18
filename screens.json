@@ -384,6 +384,11 @@
 		"dppx": 1
 	},
 	{
+		"name": "Dell Latitude E6430"
+		"w": 1600,
+		"h": 900,
+		"d": 14
+	{
 		"name": "Dell SP2309W",
 		"w": 2048,
 		"h": 1152,
